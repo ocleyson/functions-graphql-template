@@ -2,7 +2,7 @@
   "name": "server",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "functions/index.js",
   "scripts": {
     "test": "jest"
   },
@@ -20,14 +20,9 @@
       "git add"
     ]
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://cleysonsk@bitbucket.org/cleysonsk/school-server.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/cleysonsk/school-server#readme",
   "devDependencies": {
     "@commitlint/cli": "^8.3.5",
     "@commitlint/config-conventional": "^8.3.4",
